@@ -5,6 +5,11 @@ function sayName() {
      console.log('my name is ' + name1 )
 }
 
+<<<<<<< HEAD
 function newFn(){
     console.log('Hey i am a new fn')
+=======
+function isAbove18() {
+    return age >= 18 
+>>>>>>> parent of 9e23ecb (remove 18 function)
 }
