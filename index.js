@@ -5,3 +5,6 @@ function sayName() {
      console.log('my name is ' + name1 )
 }
 
+function newFn(){
+    console.log('Hey i am a new fn')
+}
